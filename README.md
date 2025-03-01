@@ -1,6 +1,6 @@
 # How busy is Kasprowy, the most popular peak in Tatra mountains?
 ## Goal
-The goal of this project is to analyze traffic on Kasprowy, factoring in variables such as day, time, and weather conditions.
+The goal of this project is to analyze traffic on Kasprowy, factoring in variables such as day, time, and weather conditions using YOLO model for counting people.
 ##
 Images from camera are borrowed from: https://www.pkl.pl/kasprowy-wierch/kamery-online.html
 ### TODO
